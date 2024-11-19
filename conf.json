@@ -1,0 +1,1 @@
+{"PLC1":{"port":0,"address":""},"PLC2":{"port":502,"address":"localhost"},"Heater":{"P":0,"I":0},"Calcs":{"Vm0":1,"K0":2,"a_small":3,"A":4,"b_small":5,"B":6}}
