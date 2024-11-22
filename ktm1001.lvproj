@@ -27,6 +27,8 @@
 		<Item Name="Registration.lvlib" Type="Library" URL="../Registration/Registration.lvlib"/>
 		<Item Name="Settings Window.lvclass" Type="LVClass" URL="../Workers/Settings Window/Settings Window.lvclass"/>
 		<Item Name="SFC.lvlib" Type="Library" URL="../SFC/SFC.lvlib"/>
+		<Item Name="Registration.lvclass" Type="LVClass" URL="../Workers/Registration Worker/Registration.lvclass"/>
+		<Item Name="Work Planer.lvclass" Type="LVClass" URL="../Workers/Work Planer/Work Planer.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Read INI Cluster__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/variantconfig/variantconfig.llb/Read INI Cluster__ogtk.vi"/>
@@ -177,6 +179,7 @@
 				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
+				<Item Name="Is Path and Not Empty.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Is Path and Not Empty.vi"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="Array DBL поддержание размера.vi" Type="VI" URL="../SubVI/Array DBL поддержание размера.vi"/>
